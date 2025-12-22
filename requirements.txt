@@ -1,0 +1,13 @@
+jupyterlab
+ipykernel
+ipywidgets
+datasets
+torch
+torchvision
+torchaudio
+transformers
+peft
+evaluate
+huggingface_hub[hf_xet]
+hf_xet
+bitsandbytes
